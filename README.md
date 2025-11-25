@@ -1,4 +1,4 @@
-# 💰 Python Expense Tracker
+# Python Expense Tracker
 
 A simple and efficient **command-line Python Expense Tracker** that helps users record daily expenses, analyze spending patterns, and generate summaries by **month** and **category**.
 
